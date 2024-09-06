@@ -27,7 +27,7 @@ npm run start
 
 ## Backend Setup
 
-# Update GOOGLE and AWS API Key in .env file
+### Update GOOGLE and AWS API Key in .env file
 
 open new terminal 
 Navigate to the backend directory:
