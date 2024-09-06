@@ -24,6 +24,7 @@ pdf_template = """
     {context}
     </context>
     Question: {input}
+    Answer: 
 """
 
 
