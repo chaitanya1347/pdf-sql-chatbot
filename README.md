@@ -5,4 +5,4 @@
 First, clone the repository using the following command:
 
 ```bash
-git clone https://github.com/chaitanya1347/testing.git
+git clone https://github.com/chaitanya1347/pdf_sql_chatbot.git
