@@ -24,3 +24,36 @@ Start the frontend application:
 ```bash
 npm run start
 ```
+
+## Backend Setup
+
+open new terminal 
+Navigate to the backend directory:
+```bash
+cd backend
+```
+
+Create a virtual environment:
+```bash
+python -m venv myenv
+```
+
+Activate the virtual environment:
+On Windows:
+```bash
+.\myenv\Scripts\activate
+```
+On macOS/Linux:
+```bash
+source myenv/bin/activate
+```
+
+Install the necessary dependencies:
+```bash
+pip install -r requirements.txt
+```
+
+Run the backend application:
+```bash
+python main.py
+```
