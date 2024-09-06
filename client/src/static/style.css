@@ -1,0 +1,44 @@
+.header{
+    padding-top: 3rem;
+}
+
+.desc-upload {
+    color: #636b71; /* A greyish color */
+    max-width: 400px; /* Adjust the width to control where the text breaks into two lines */
+    margin: 0 auto; /* Center the text */
+    padding: 10px;
+    line-height: 1.5; /* Space out the lines a bit */
+    text-align: center; /* Center-align the text */
+  }
+
+.heading-chat-area{
+    padding: 10px;
+    font-size: large;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.heading-chat-area h2{
+    font-size:x-large;
+    color: black;
+   
+}
+
+.document-list {
+    text-align: left; /* Ensures text aligns to the left */
+    margin-bottom: 10px;
+
+}
+
+.document-list ol .file-name{
+    list-style-position: inside; /* Ensures the list markers are inside the padding */
+    margin-bottom: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.message-container::-webkit-scrollbar {
+    width: 0px;
+    height: 0px;
+  }

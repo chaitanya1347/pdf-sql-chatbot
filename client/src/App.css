@@ -1,0 +1,10 @@
+.App {
+  background-image: url('./static/gradient.jpg');
+  background-size: cover; /* Ensures the image covers the entire area */
+  background-position: center; 
+  background-repeat: no-repeat;
+  text-align: center;
+  min-height: 100vh;
+  min-width:100vw;
+}
+
